@@ -22,5 +22,5 @@ CMD [ "-candidate=localhost:9992", \
       "-admin.port=:8881", \
       "-http.port=:8888", \
       "-rootUrl=localhost:8888" \
+      "-summary.email='isotope@diffy.ai" \
 ]
-

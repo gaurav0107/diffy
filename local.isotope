@@ -1,0 +1,10 @@
+{
+"credentials": {
+"service_name" : "Promotions:Xenia",
+"service_xid" : "WJo5X4pWKJURrzPJlP1KIxojMwk",
+"service_auth" : "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXJ2aWNlX3hpZCI6IldKbzVYNHBXS0pVUnJ6UEpsUDFLSXhvak13ayIsIm9yZ2FuaXphdGlvbl94aWQiOiJBQVpPT09wcUdsc2pMWkU1MXpLUGMzUVl6ODgifQ.cVGxcWGuOSCGl8gu9jyUajJo4MVQjSCSKk_E9vyUOr8"
+},
+"routes": [ ],
+"mode": "record",
+"localport": 8080
+}
